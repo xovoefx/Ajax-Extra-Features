@@ -64,6 +64,8 @@ You can deploy this bot anywhere.
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
+  
+  ## Deploy
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/9Tv-Y5?referralCode=Duw4MO)
 
 <a href="https://youtu.be/kB9TkCs8cX0">

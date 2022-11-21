@@ -1,6 +1,6 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙾 {},
-𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽.. 𝚃𝙷𝙴𝙽 𝚂𝙴𝙴 𝙼𝚈 𝙿𝙾𝚆𝙴𝚁𝚂 ♥️♥️🔥"""
+    START_TXT = """𝙷𝙴𝙻𝙻𝙾 {},
+𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, 𝙸 𝙰𝙼 𝙰𝙽 𝙰𝚅𝙴𝚁𝙰𝙶𝙴 𝙰𝚄𝚃𝙾-𝙵𝙸𝙻𝚃𝙴𝚁 𝙱𝙾𝚃.𝚈𝙾𝚄 𝙲𝙰𝙽 𝚄𝚂𝙴 𝙼𝙴 𝙾𝙽 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿.𝙰𝙳𝙳 𝙼𝙴 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙼𝙴 𝙰𝙳𝙼𝙸𝙽...!"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """<b>✮ 𝙼𝚈 𝙽𝙰𝙼𝙴: <a href=https://t.me/{}>{}</a></b>
@@ -205,7 +205,7 @@ Delete A Lot Of Messages From Groups!
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/MWUpdatez)</code>
+<code>[Button Text](buttonurl:https://t.me/venombothelp)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""

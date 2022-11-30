@@ -14,3 +14,4 @@ services:
       DATABASE_URI: $DATABASE_URI
       IMDB: $IMDB
       IMDB_TEMPLATE: $IMDB_TEMPLATE
+      RemoveBG_API: $RemoveBG_API
